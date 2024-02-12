@@ -3,8 +3,8 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "block/cactus_side",
-		"2": "c4-texture-1",
-		"particle": "c4-texture-1"
+		"2": "bang:item/c4-texture",
+		"particle": "bang:item/c4-texture"
 	},
 	"elements": [
 		{
